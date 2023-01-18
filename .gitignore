@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# git ignore perso 
+
+
+dash_env/bin/Activate.ps1
+dash_env/bin/activate
+dash_env/bin/activate.csh
+dash_env/bin/activate.fish
+dash_env/bin/pip
+dash_env/bin/pip3
+dash_env/bin/pip3.8
+dash_env/bin/python
+dash_env/bin/python3
+dash_env/lib64
+dash_env/pyvenv.cfg 
